@@ -1,9 +1,6 @@
 # app-dev
 My first repository
 <html>
-<head>
-    <title>My Favorite Movies</title>
-</head>
 <body>
     <h1>My Favorite Movies</h1>
     <ul>
